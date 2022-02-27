@@ -23,3 +23,9 @@ a group of developers making stuff so you don't have to
 ![biaw/imagehost last commit](https://img.shields.io/github/last-commit/biaw/imagehost)
 ![biaw/imagehost issues](https://img.shields.io/github/issues-raw/biaw/imagehost)
 ![biaw/imagehost pull requests](https://img.shields.io/github/issues-pr-raw/biaw/imagehost)
+
+
+* [`biaw/dstat-logger`](https://github.com/biaw/dstat-logger): An automatic Discord bot statistic logger.\
+![biaw/dstat-logger last commit](https://img.shields.io/github/last-commit/biaw/dstat-logger)
+![biaw/dstat-logger issues](https://img.shields.io/github/issues-raw/biaw/dstat-logger)
+![biaw/dstat-logger pull requests](https://img.shields.io/github/issues-pr-raw/biaw/dstat-logger)
