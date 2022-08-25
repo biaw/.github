@@ -13,13 +13,3 @@ a group of developers making stuff so you don't have to
 ![biaw/test-area last commit](https://img.shields.io/github/last-commit/biaw/test-area)
 ![biaw/test-area issues](https://img.shields.io/github/issues-raw/biaw/test-area)
 ![biaw/test-area pull requests](https://img.shields.io/github/issues-pr-raw/biaw/test-area)
-
-* [`biaw/multidomain`](https://github.com/biaw/multidomain): A webserver using Express that can deliver static pages to multiple domains\
-![biaw/multidomain last commit](https://img.shields.io/github/last-commit/biaw/multidomain)
-![biaw/multidomain issues](https://img.shields.io/github/issues-raw/biaw/multidomain)
-![biaw/multidomain pull requests](https://img.shields.io/github/issues-pr-raw/biaw/multidomain)
-
-* [`biaw/imagehost`](https://github.com/biaw/imagehost): A simple express file uploader used as an image hosting service.\
-![biaw/imagehost last commit](https://img.shields.io/github/last-commit/biaw/imagehost)
-![biaw/imagehost issues](https://img.shields.io/github/issues-raw/biaw/imagehost)
-![biaw/imagehost pull requests](https://img.shields.io/github/issues-pr-raw/biaw/imagehost)
