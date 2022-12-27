@@ -5,7 +5,8 @@ branches:
   - name: main
     protection:
       restrictions:
-        apps:
-          - renovate
         users:
           - promise
+        teams: []
+        apps:
+          - renovate
